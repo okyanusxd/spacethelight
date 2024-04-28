@@ -6,8 +6,8 @@ export default {
     about: {
         description: "Hi, I’m <span class='text-primary'>@spacethelight</span>. I'm currently learning I am currently living in İstanbul, Turkey.",
         liveIn: "İstanbul",
-        birthday: "16 October",
-        gender: "Man"
+        birthday: "29 July",
+        gender: "Young Boy"
     }
 
 }
