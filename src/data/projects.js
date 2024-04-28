@@ -16,6 +16,13 @@ export default {
             role: "Moderator",
             link: "https://discord.gg/HFwgyyz9"
         },
+        {
+            name: "EzelShop",
+            description: "If you want ig followers or discord server boost you can buy here for cheap.",
+            image: "https://media.discordapp.net/attachments/1224999726794018867/1234242015676469341/image.png?ex=663004f3&is=662eb373&hm=7e23356607658b8e2aa49ca4535bcbac4e7029be039a0cd3da1969bbfb3cde93&=&format=webp&quality=lossless&width=440&height=196",
+            role: "Manager",
+            link: "https://discord.gg/MNGTDBut"
+        },
 
     ]
 
