@@ -21,7 +21,7 @@ export default function Main(){
     }, [user])
 
     return (<div className="mt-3 max-w-8xl w-11/12 sm:w-10/12 mx-auto">
-        <title>Home | Just Nyde</title>
+        <title>Home | Space</title>
         
         <div className="space-y-4 flex flex-col sm:flex-row sm:items-center sm:gap-4 sm:space-y-0">
             <div className="mt-6" data-aos="fade-right">
