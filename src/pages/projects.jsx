@@ -29,11 +29,7 @@ export default function Projects(){
                                 <div className="font-sans text-base text-white flex items-center gap-2"><RiShieldUserLine size="25px" color="WHITE"/> {project.role}</div>
                                 {(project.link) && (<a target="_blank" href={project.link}><div className="font-sans text-base text-gray-600 flex items-center gap-2 hover:text-gray-500"><HiOutlineExternalLink size="25px"/> Let's see!</div></a>)}
                             </div>
-                        </div>
-                    </div>
-                )))}
-            </div>
-        </div>
+                       </div>
                     </a>
                 </div>
             </div>
