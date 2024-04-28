@@ -34,12 +34,6 @@ export default function Projects(){
                 )))}
             </div>
         </div>
-        <br/><br/><br/>
-        <div data-aos="fade-right">
-            <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-1">Where is this website <BiQuestionMark size="45px"/> </h1>
-            <div className="w-full h-45 rounded-xl bg-gradient-to-r from-primary to-blue-500 p-6 mt-4">
-                <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 items-center justify-start md:justify-between">
-                    <div className="flex items-center gap-4">
                     </a>
                 </div>
             </div>
