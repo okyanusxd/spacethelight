@@ -9,7 +9,7 @@ export default function About(){
     const { user, github } = useData(data)
 
     return (<div className="mt-3 max-w-8xl w-11/12 sm:w-10/12 mx-auto">
-        <title>About Me | Just Nyde</title>
+        <title>About Me | Space</title>
 
             <div className="flex flex-col sm:flex-row gap-0 sm:gap-9 justify-between">
                 <div data-aos="fade-right" className="space-y-2 mt-11 order-2 sm:order-none text-center md:text-left">
