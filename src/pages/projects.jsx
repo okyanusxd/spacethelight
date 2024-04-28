@@ -8,7 +8,7 @@ import Project from "../data/projects.js"
 export default function Projects(){
 
     return (<div className="mt-3 max-w-8xl w-11/12 sm:w-10/12 mx-auto">
-        <title>Projects | Just Nyde</title>
+        <title>Projects | Space</title>
 
         <div data-aos="fade-right">
             <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-2"><AiOutlineShareAlt/> My Projects </h1>
