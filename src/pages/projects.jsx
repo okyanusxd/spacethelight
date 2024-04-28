@@ -12,14 +12,11 @@ export default function Projects(){
 
         <br/><br/><br/>
         <div data-aos="fade-right">
-                <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 items-center justify-start md:justify-between">
-                    <div className="flex items-center gap-4">
-                        <AiOutlineGithub size="40px" color="WHITE"/>
                         <h1 className="font-sans text-white text-base">If you want cheap services join and get cheap service!</h1>
                     </div>
                     <a className="flex items-center gap-2 text-gray-200 hover:text-gray-300" href="https://github.com/justnyde/nyde.live" target="_blank">
                         <HiOutlineExternalLink size="30px"/>
-                        <h1 className="font-sans text-base">Use Template.</h1>
+                        <h1 className="font-sans text-base">Join.</h1>
                     </a>
                 </div>
             </div>
