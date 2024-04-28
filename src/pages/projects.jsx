@@ -10,18 +10,6 @@ export default function Projects(){
     return (<div className="mt-3 max-w-8xl w-11/12 sm:w-10/12 mx-auto">
         <title>Projects | Space</title>
 
-        <br/><br/><br/>
-        <div data-aos="fade-right">
-                        <h1 className="font-sans text-white text-base">If you want cheap services join and get cheap service!</h1>
-                    </div>
-                    <a className="flex items-center gap-2 text-gray-200 hover:text-gray-300" href="https://github.com/justnyde/nyde.live" target="_blank">
-                        <HiOutlineExternalLink size="30px"/>
-                        <h1 className="font-sans text-base">Join.</h1>
-                    </a>
-                </div>
-            </div>
-        </div>
-
         <div data-aos="fade-right">
             <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-2"><AiOutlineShareAlt/> My Projects </h1>
             <div className="mt-12 w-full grid grid-cols-1 gap-4 grid-flow-row auto-rows-max px-3 sm:px-0 2xl:grid-cols-3 xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
