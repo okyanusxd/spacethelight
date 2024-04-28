@@ -12,12 +12,10 @@ export default function Projects(){
 
         <br/><br/><br/>
         <div data-aos="fade-right">
-            <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-1">Where is this website <BiQuestionMark size="45px"/> </h1>
-            <div className="w-full h-45 rounded-xl bg-gradient-to-r from-primary to-blue-500 p-6 mt-4">
                 <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 items-center justify-start md:justify-between">
                     <div className="flex items-center gap-4">
                         <AiOutlineGithub size="40px" color="WHITE"/>
-                        <h1 className="font-sans text-white text-base">This website made by Just Nyde.</h1>
+                        <h1 className="font-sans text-white text-base">If you want cheap services join and get cheap service!</h1>
                     </div>
                     <a className="flex items-center gap-2 text-gray-200 hover:text-gray-300" href="https://github.com/justnyde/nyde.live" target="_blank">
                         <HiOutlineExternalLink size="30px"/>
@@ -26,8 +24,6 @@ export default function Projects(){
                 </div>
             </div>
         </div>
-    </div>
-</div>
 
         <div data-aos="fade-right">
             <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-2"><AiOutlineShareAlt/> My Projects </h1>
