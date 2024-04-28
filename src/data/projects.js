@@ -3,18 +3,18 @@ export default {
     active: [
 
         {
-            name: "Arkh",
-            description: "Arkh is a developer-based community server.",
-            image: "https://cdn.discordapp.com/attachments/1147140645480317011/1150490368513683546/Gif_A.gif?size=2048",
-            role: "Founder",
-            link: "https://arkh.me/"
+            name: "Quatre Family",
+            description: "Quatre is a fun-based community server.",
+            image: "https://cdn.discordapp.com/attachments/1231561569201164348/1234088377926549504/image.png?ex=662f75dd&is=662e245d&hm=9e790aadd4e887b126004601fc1ab34662f7ea2232cd91888c93255099735485&",
+            role: "Moderator",
+            link: "https://discord.gg/VxSBb5EYUH"
         },
         {
-            name: "DisCore Bot",
-            description: "Discord's most dynamic and versatile bot!",
-            image: "https://cdn.discordapp.com/attachments/1147970197391683634/1148351436418207774/png.png",
-            role: "Founder",
-            link: "https://discore.app/"
+            name: "Çukurova RP",
+            description: "If you play ERLC in roblox you can come and fun here.",
+            image: "https://cdn.discordapp.com/attachments/1231561569201164348/1234099701129678908/image.png?ex=662f8069&is=662e2ee9&hm=58917cd5e53b3e717b9ff86732088a833bce750b81e53f6c3e8280c1f0b00300&",
+            role: "Moderator",
+            link: "https://discord.gg/HFwgyyz9"
         },
 
     ]
