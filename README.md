@@ -1,4 +1,4 @@
-# My personal website - nyde.live | Made by Just Nyde
+# My personal website - spacethelight.now.sh | Made by okyanusxd
 
 Hello! It is open source code for the website I made to promote myself.
 
