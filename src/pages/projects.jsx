@@ -26,9 +26,8 @@ export default function Projects(){
                 </div>
             </div>
         </div>
-     </div>
-   </div>
- </div>
+    </div>
+</div>
 
         <div data-aos="fade-right">
             <h1 className="text-3xl font-sans text-gray-400 font-bold flex items-center gap-2"><AiOutlineShareAlt/> My Projects </h1>
